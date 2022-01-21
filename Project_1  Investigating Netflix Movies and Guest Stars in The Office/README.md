@@ -5,7 +5,7 @@
 
 
 This project is based on a real-world data science problem. 
-The objective of this project is to discover if if Netflix’s movies are getting shorter over time, using everything from lists and loops to pandas and matplotlib.
+The objective of this project is to discover if Netflix’s movies are getting shorter over time, using everything from lists and loops to pandas and matplotlib.
 It performs critical tasks such as manipulating raw data and drawing conclusions from plots created of the data. 
 
 ### SUMMARY
