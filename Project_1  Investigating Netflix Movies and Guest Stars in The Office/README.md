@@ -3,6 +3,8 @@
 
 <img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_1%20%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/netflix%20image.jpg">
 
+![netflix image.jpg](https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_1%20%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/netflix%20image.jpg")
+
 width="200"
 
 
