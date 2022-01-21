@@ -1,7 +1,9 @@
 # Project 1
 ## Investigating Netflix Movies and Guest Stars in The Office
 
-<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_1%20%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/netflix%20image.jpg" width="200">
+<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_1%20%20Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/netflix%20image.jpg">
+
+width="200"
 
 
 This repository shows my projects during the Data Science with Python course by Datacamp.
