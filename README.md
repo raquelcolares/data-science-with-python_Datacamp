@@ -21,6 +21,14 @@ This course teaches how to import, clean, manipulate and visualize data, all ski
 * Working with Dates and Times in Python
 * Writing functions in Python
 * Exploratory Data Analysis in Python
+* Analyzing Police Activity with pandas
+* Statistical thinking (part 1)
+* Statistical thinking (part 2)
+* Supervised learning with scikit-learn
+* Unsupervised learning in Python
+* Machine Learning with Tree-Based Models in Python
+* Case Study: School Budgeting with Machine Learning in Python
+* Cluster Analysis in Python
 
 
 
