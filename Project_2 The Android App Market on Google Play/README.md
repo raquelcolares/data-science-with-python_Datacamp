@@ -1,7 +1,7 @@
 # Project 2
 ## The Android App Market on Google Play
 
-<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_2%20The%20Android%20App%20Market%20on%20Google%20Play/google%20play%20image.png">
+<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_2%20The%20Android%20App%20Market%20on%20Google%20Play/google%20play%20image.png" width="200">
 
 
 
