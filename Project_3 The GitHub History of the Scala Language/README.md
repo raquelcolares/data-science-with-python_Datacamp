@@ -1,7 +1,7 @@
 # Project 3
 ## The GitHub History of the Scala Language
 
-<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_3%20The%20GitHub%20History%20of%20the%20Scala%20Language/scala%20image.png" width="500">
+<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_3%20The%20GitHub%20History%20of%20the%20Scala%20Language/scala%20image.png" width="350">
 
 
 
