@@ -1,9 +1,9 @@
 # Project 4
 ## A Visual History of Nobel Prize Winners
 
-<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_4%20A%20Visual%20History%20of%20Nobel%20Prize%20Winners/nobel%20medal.jpg" width="350">
+<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_4%20A%20Visual%20History%20of%20Nobel%20Prize%20Winners/nobel%20medal.jpg" width="400">
 
-<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_4%20A%20Visual%20History%20of%20Nobel%20Prize%20Winners/nobel.jpg" width="350">
+
 
 
 Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. 
