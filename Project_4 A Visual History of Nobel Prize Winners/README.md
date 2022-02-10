@@ -1,16 +1,13 @@
 # Project 4
 ## A Visual History of Nobel Prize Winners
 
-<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_4%20A%20Visual%20History%20of%20Nobel%20Prize%20Winners/nobel%20medal.jpg" width="400">
+<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_4%20A%20Visual%20History%20of%20Nobel%20Prize%20Winners/nobel%20medal.jpg" width="450">
 
 
+The Nobel Prize is perhaps the world's most well known scientific award. Every year it is given to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the prize was Eurocentric and male-focused. 
+This objective of this project is to analyze what characteristics do the prize winners have, hhich country gets it most often, if anybody has gotten it twice, etc.
 
-
-Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. 
-
-In this project, I read in, cleaned up, and visualized the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). 
-
-With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. The objective of this project is to find out who has had the most influence on its development and who are the experts.
+The dataset used in this project is from The Nobel Foundation on Kaggle and you can find it on the datasets folder here.
 
 
 
