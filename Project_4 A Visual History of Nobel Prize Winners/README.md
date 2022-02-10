@@ -6,7 +6,7 @@
 
 The Nobel Prize is perhaps the world's most well known scientific award. Every year it is given to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the prize was Eurocentric and male-focused. 
 
-The objective of this project is to analyze what characteristics do the prize winners have, which country gets it most often, if anybody has gotten it twice, the first woman to won, the youngest and oldest winners, etc.
+The objective of this project is to analyze what characteristics do the prize winners have, which country gets it most often, if anybody has gotten it twice, the first woman to win, the youngest and oldest winners, etc.
 
 The dataset used in this project is from The Nobel Foundation on Kaggle and you can find it on the datasets folder here.
 
