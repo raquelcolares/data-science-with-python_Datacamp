@@ -1,7 +1,7 @@
 # Project 5
 ## Dr. Semmelweis and the Discovery of Handwashing
 
-<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_5%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/handwashing%201.png" width="450" height="250">     <img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_5%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/handwashing%202.png" width="450" height="250"> 
+<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_5%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/handwashing%201.png" width="500" height="300">     <img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_5%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/handwashing%202.png" width="500" height="300"> 
 
 
 In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
