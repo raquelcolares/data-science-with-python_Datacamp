@@ -1,7 +1,7 @@
 # Project 6
 ## Predicting Credit Card Approvals
 
-<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_6%20Predicting%20Credit%20Card%20Approvals/credit%20card%20approval.jpg" width="500" height="300">     
+<img src="https://github.com/raquelcolares/data-science-with-python_Datacamp/blob/main/Project_6%20Predicting%20Credit%20Card%20Approvals/credit%20card%20approval.jpg" width="450" height="300">     
 
 
 
